@@ -1,0 +1,2 @@
+# blockchain_translation
+量子实习间积累的关于区块链的专有名词翻译
