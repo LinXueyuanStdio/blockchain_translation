@@ -3,7 +3,8 @@
 量子实习间积累的关于区块链的专有名词翻译
 
 unique address 一次性地址
-
+unique addresses per day 每日一次性地址数
+Active Transactions per Day 每日活跃交易数
 
 ## 其他资料搬运
 
