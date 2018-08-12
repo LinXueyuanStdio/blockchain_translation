@@ -3,12 +3,20 @@
 在量子实习间积累的关于区块链的专有名词翻译
 
 unique address 独立地址
+
 unique addresses per day 每日独立地址数
+
 Active Transactions per Day 每日活跃交易数
+
 monitoring node 监控节点
+
 seed word 助记词，不是种子词
+
 network weight 网络权重，不是网络重量
+
 coin 代币，不是硬币
+
+token 代币，不是令牌。在区块链中特指代币，所以翻译为代币专业一点。但在其他行业里应该翻译为令牌，比如 QQ 登录为了安全在网络请求时要带上token，也就是令牌。如果翻译为代币感觉不通顺，那就要么留着 token 不译，要么问老大。
 
 ## 原则
 
